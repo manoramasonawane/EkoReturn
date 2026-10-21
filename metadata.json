@@ -1,0 +1,6 @@
+{
+  "name": "EkoReturn - E-Waste Pickup & Rewards",
+  "description": "Doorstep e-waste collection platform connecting households with authorized recyclers, transparent reward payouts, lithium battery safety, and pickup tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
